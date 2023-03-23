@@ -5,5 +5,5 @@ channels:
 dependencies:
   - python==3.10
   - streamlit
-  - openms
+  - bioconda::openms
   
