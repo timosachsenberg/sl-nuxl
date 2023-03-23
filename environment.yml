@@ -1,7 +1,6 @@
 channels:
-###  - bioconda
-  - conda-forge
+  - bioconda
+  - default
 
 dependencies:
-  - streamlit
-###  - bioconda::openms 
+  - bioconda::openms 
